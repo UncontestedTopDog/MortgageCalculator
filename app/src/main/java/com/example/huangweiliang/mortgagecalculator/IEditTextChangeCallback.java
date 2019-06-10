@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator;public interface IEditTextChangeCallback {    void onTextChange(String id);    void onAfterTextChanged(String id);}

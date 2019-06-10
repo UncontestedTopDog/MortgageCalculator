@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator;import android.view.View;public interface ChooseItemClickListener extends View.OnClickListener{}

@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator;public class Enum {    public enum MortgageType {        Commercial,//商业        Fund,//公积金        Compose,//组合    }    public enum RepaymentType {        AC,//等额本金        ACPI,//等额本息    }}

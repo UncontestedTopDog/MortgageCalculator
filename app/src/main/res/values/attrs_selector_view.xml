@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><resources><declare-styleable name="SelectorView">    <attr name="itemSum" format="integer" />    <attr name="firstItemText" format="reference|string" />    <attr name="secondItemText" format="reference|string" />    <attr name="thirdItemText" format="reference|string" /></declare-styleable></resources>
