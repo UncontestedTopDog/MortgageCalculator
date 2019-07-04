@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator.model;import com.google.gson.Gson;import java.io.Serializable;public abstract class BaseData implements Serializable{    @Override    public String toString() {        return new Gson().toJson(this);    }}

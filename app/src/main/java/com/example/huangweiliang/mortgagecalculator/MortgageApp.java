@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator;import android.app.Application;import android.database.sqlite.SQLiteDatabase;import com.greendao.gen.DaoMaster;import com.greendao.gen.DaoSession;public class MortgageApp extends Application {    @Override    public void onCreate() {        super.onCreate();        SharedObjects.INSTANCES.init(this);    }}

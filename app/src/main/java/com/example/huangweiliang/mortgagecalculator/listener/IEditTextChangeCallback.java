@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator.listener;public interface IEditTextChangeCallback {    void onTextChange();}

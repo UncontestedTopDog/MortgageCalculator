@@ -1,0 +1,1 @@
+package com.example.huangweiliang.mortgagecalculator.listener;public abstract class ISelectorCallback {    public void onClickFirst() {    }    public void onClickSecond() {    }    public void onClickThird() {    }}

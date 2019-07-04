@@ -1,1 +1,0 @@
-package com.example.huangweiliang.mortgagecalculator;public interface ISelectorCallback {    void onClickFirst(String id);    void onClickSecond(String id);    void onClickThird(String id);}
